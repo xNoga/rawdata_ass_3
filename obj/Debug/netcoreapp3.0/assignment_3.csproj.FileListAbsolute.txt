@@ -1,0 +1,11 @@
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/bin/Debug/netcoreapp3.0/assignment_3
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/bin/Debug/netcoreapp3.0/assignment_3.deps.json
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/bin/Debug/netcoreapp3.0/assignment_3.runtimeconfig.json
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/bin/Debug/netcoreapp3.0/assignment_3.runtimeconfig.dev.json
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/bin/Debug/netcoreapp3.0/assignment_3.dll
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/bin/Debug/netcoreapp3.0/assignment_3.pdb
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/obj/Debug/netcoreapp3.0/assignment_3.csprojAssemblyReference.cache
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/obj/Debug/netcoreapp3.0/assignment_3.AssemblyInfoInputs.cache
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/obj/Debug/netcoreapp3.0/assignment_3.AssemblyInfo.cs
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/obj/Debug/netcoreapp3.0/assignment_3.dll
+/Users/kristoffernoga/Documents/Programmering/Computer_Science/RAWDATA/assignment_3/obj/Debug/netcoreapp3.0/assignment_3.pdb
